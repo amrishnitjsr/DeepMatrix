@@ -5,7 +5,7 @@ import { faUpload } from '@fortawesome/free-solid-svg-icons';
 function Form3() {
   return (
   <div className="w-full max-w-3xl bg-white p-8 rounded-lg">
-      <h2 className="text-xl font-semibold mb-4">Educational Details</h2>
+      <h2 className="text-xl font-semibold mb-4">Address Details</h2>
 
       {/* Education Section */}
       <div className="bg-[#E9EAF4] p-6 rounded-lg mb-6">
