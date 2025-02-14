@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Filson Pro';
+  src: url('/src/assets/fonts/FilsonPro-Regular.woff2') format('woff2'),
+       url('/src/assets/fonts/FilsonPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Filson Pro';
+  src: url('/src/assets/fonts/FilsonPro-Bold.woff2') format('woff2'),
+       url('/src/assets/fonts/FilsonPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
